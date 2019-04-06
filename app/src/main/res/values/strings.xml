@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Laboratorio3</string>
+    <string name="title">title</string>
+    <string name="subtitle">Subtitle</string>
+    <string name="body">Body</string>
+    <string name="comentario">Comentario</string>
+    <string name="comentar">Comentar</string>
+</resources>
